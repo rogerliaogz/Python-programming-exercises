@@ -280,7 +280,7 @@ print(" ".join(sorted(list(set(words)))))
 Level 2
 
 Question:
-Write a program which accepts a sequence of comma separated 4 digit binary numbers as its input and then check whether they are divisible by 5 or not. The numbers that are divisible by 5 are to be printed in a comma separated sequence.
+
 Example:
 0100,0011,1010,1001
 Then the output should be:
@@ -627,7 +627,7 @@ print(int(round(math.sqrt(pos[1]**2+pos[0]**2))))
 Level 3
 
 Question:
-Write a program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically. 
+Write a program to . 
 Suppose the following input is supplied to the program:
 New to Python or choosing between Python 2 and Python 3? Read Python 2 or Python 3.
 Then, the output should be:
@@ -783,6 +783,7 @@ printValue(3)
 ```
 
 ### Question 29
+
 Define a function that can receive two integral numbers in string form and compute their sum and then print it in console.
 
 Hints:
